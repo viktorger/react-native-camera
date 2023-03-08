@@ -2,7 +2,7 @@
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
-First line on branch1
+First line on branch1 Again
 Second line on branch1
 Third line on branch1
 
