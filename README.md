@@ -4,7 +4,7 @@
 
 First line on branch1 Again
 Second line on branch1 Again
-Third line on branch1
+Third line on branch1 Again
 
 Due to the lack of maintainers and increased code complexity, react-native-camera is now deprecated in favor of [react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera).
 
